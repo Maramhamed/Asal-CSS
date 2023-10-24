@@ -1,0 +1,18 @@
+.squareOne {
+  background-color: red;
+  width: 150px;
+  height: 150px;
+  z-index: -1;
+}
+.squareTwo {
+  background-color: blue;
+  width: 150px;
+  height: 150px;
+  transform: translate(25px, -130px);
+}
+.squareThree {
+  background-color: yellow;
+  width: 150px;
+  height: 150px;
+  transform: translate(50px, -260px);
+}

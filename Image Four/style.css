@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.big-square {
+  width: 40vmin;
+  height: 40vmin;
+  background-color: gainsboro;
+  flex-shrink: 1;
+  margin: 10px;
+}
+
+.small-square {
+  width: 30vmin;
+  height: 30vmin;
+  background-color: gainsboro;
+  margin: 10px;
+}

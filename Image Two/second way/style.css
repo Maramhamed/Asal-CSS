@@ -1,0 +1,12 @@
+div {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+.circle {
+  width: 30vmin;
+  height: 30vmin;
+  border-radius: 50%;
+  background-color: blue;
+}

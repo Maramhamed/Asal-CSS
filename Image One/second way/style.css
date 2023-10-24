@@ -1,0 +1,23 @@
+.squareOne {
+  position: relative;
+  background-color: red;
+  width: 150px;
+  height: 150px;
+  z-index: -1;
+}
+.squareTwo {
+  position: relative;
+  background-color: blue;
+  width: 150px;
+  height: 150px;
+  top: -130px;
+  right: -25px;
+}
+.squareThree {
+  position: relative;
+  background-color: yellow;
+  width: 150px;
+  height: 150px;
+  top: -260px;
+  right: -50px;
+}
